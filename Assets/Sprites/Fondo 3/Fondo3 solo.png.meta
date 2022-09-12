@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 6596e987949479541b1cbc0d27b7fd6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 139638519580819180
+    second: Fondo3 solo_0
+  - first:
+      213: 4251249749443050360
+    second: Fondo3 solo_1
+  - first:
+      213: 736549007524844117
+    second: Fondo3 solo_2
+  - first:
+      213: 6917802176717181520
+    second: Fondo3 solo_3
+  - first:
+      213: -2917797048003951903
+    second: Fondo3 solo_4
+  - first:
+      213: 1345086811407270205
+    second: Fondo3 solo_5
+  - first:
+      213: -3196399261664588422
+    second: Fondo3 solo_6
+  - first:
+      213: -1864553258168103712
+    second: Fondo3 solo_7
+  - first:
+      213: 2807512179148440807
+    second: Fondo3 solo_8
+  - first:
+      213: -3602783289518359953
+    second: Fondo3 solo_9
+  - first:
+      213: -90849244818151332
+    second: Fondo3 solo_10
+  - first:
+      213: -2146606755460638014
+    second: Fondo3 solo_11
+  - first:
+      213: 4949474667164420495
+    second: Fondo3 solo_12
+  - first:
+      213: 4129186787539964596
+    second: Fondo3 solo_13
+  - first:
+      213: 5444281304410271189
+    second: Fondo3 solo_14
+  - first:
+      213: -2237489976884285034
+    second: Fondo3 solo_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fondo3 solo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee73946e7810f100800000000000000
+      internalID: 139638519580819180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 423.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b750f7f197ffa30800000000000000
+      internalID: 4251249749443050360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 423.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525f218b6fb83a00800000000000000
+      internalID: 736549007524844117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 423.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d6a97d68f00060800000000000000
+      internalID: 6917802176717181520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e28a034b07e187d0800000000000000
+      internalID: -2917797048003951903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 282.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d314ef11455baa210800000000000000
+      internalID: 1345086811407270205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 282.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d49288ecb14a3d0800000000000000
+      internalID: -3196399261664588422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 282.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc716c0b6cf16e0800000000000000
+      internalID: -1864553258168103712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c9bcb37946f620800000000000000
+      internalID: 2807512179148440807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 141.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7b81cfa7500ec0800000000000000
+      internalID: -3602783289518359953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 141.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58608ad71d3dbef0800000000000000
+      internalID: -90849244818151332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 141.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca90547788b532e0800000000000000
+      internalID: -2146606755460638014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8941218cf010b440800000000000000
+      internalID: 4949474667164420495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b25e828181dd4930800000000000000
+      internalID: 4129186787539964596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddaca65009fd8b40800000000000000
+      internalID: 5444281304410271189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo3 solo_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0.75
+        width: 200
+        height: 141.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691b05388b6d2f0e0800000000000000
+      internalID: -2237489976884285034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fondo3 solo_2: 736549007524844117
+      Fondo3 solo_9: -3602783289518359953
+      Fondo3 solo_12: 4949474667164420495
+      Fondo3 solo_8: 2807512179148440807
+      Fondo3 solo_15: -2237489976884285034
+      Fondo3 solo_7: -1864553258168103712
+      Fondo3 solo_10: -90849244818151332
+      Fondo3 solo_1: 4251249749443050360
+      Fondo3 solo_5: 1345086811407270205
+      Fondo3 solo_3: 6917802176717181520
+      Fondo3 solo_6: -3196399261664588422
+      Fondo3 solo_4: -2917797048003951903
+      Fondo3 solo_14: 5444281304410271189
+      Fondo3 solo_0: 139638519580819180
+      Fondo3 solo_11: -2146606755460638014
+      Fondo3 solo_13: 4129186787539964596
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
